@@ -4,7 +4,7 @@
     <string name="set_timer">Set Timer</string>
     <string name="left_time">Left Time</string>
     <string name="start">Start</string>
-    <string name="title_activity_naivgation_bar">NaivgationBar</string>
+    <string name="title_activity_android_timer">Android_Timer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -33,4 +33,6 @@
     <string name="close">Close</string>
     <string name="lock_drawer">Lock Drawer</string>
     <string name="open">open</string>
+    <string name="contents" />
+    <string name="drawer" />
 </resources>

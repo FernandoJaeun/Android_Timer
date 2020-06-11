@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
 
     private Timer timer;
     private TimerTask timerTask;
-    private DrawerLayout drawerLayout;
     private int settime;
     private int counter = 0;
 
@@ -39,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //버튼 찾아라---------------------------------------------------------------//
-        drawerLayout = (DrawerLayout) findViewById(R.id.drawer);
         btnStart = (Button) findViewById(R.id.btnStart);
         btnReset = (Button) findViewById(R.id.btnReset);
         btnOpen = findViewById(R.id.openDrawer);
@@ -83,7 +81,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         //------------------------------------------------------------------------//
-        //드로우 레이아웃 Open------------------------------------------------------//
+
+        /*//드로우 레이아웃 Open------------------------------------------------------//
         btnOpen.setOnClickListener(new Button.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -119,7 +118,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         //------------------------------------------------------------------------//
-
+*/
     }
 
 }
