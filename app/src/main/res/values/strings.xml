@@ -30,4 +30,7 @@
     <string name="set_time">set_time</string>
     <string name="leftTime">남은 시간</string>
     <string name="setTime">시간을 설정하세요</string>
+    <string name="close">Close</string>
+    <string name="lock_drawer">Lock Drawer</string>
+    <string name="open">open</string>
 </resources>
