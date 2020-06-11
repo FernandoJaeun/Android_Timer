@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText setTime;
     private EditText leftTime;
 
-
     private Timer timer;
     private TimerTask timerTask;
     private int settime;

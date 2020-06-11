@@ -26,4 +26,8 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="headerText">이것은 테스트용 화면 입니다</string>
+    <string name="set_time">set_time</string>
+    <string name="leftTime">남은 시간</string>
+    <string name="setTime">시간을 설정하세요</string>
 </resources>
